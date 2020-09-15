@@ -6,5 +6,5 @@ layout: page
 
 ### Per contattarmi ###
 * [GitHub](https://github.com/Christianlm)
-* [Correo electrónico](mailto:llajta2012@gmail.com)
+* [E-Mail](mailto:llajta2012@gmail.com)
 
