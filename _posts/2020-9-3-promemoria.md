@@ -12,6 +12,6 @@ Avvisa con un messaggio all'avvio di NVDA se sono presenti promemoria per la gio
 
  Dalla finestra proMemoria  si può impostare il vostro promemoria, inserendo un messaggio e scegliendo il giorno ed il mese.
 
-[Download](https://github.com/Christianlm/proMemoria/releases/download/v0.2.20200831/promemoria-0.2-20200831-dev.nvda-addon) 6.95 KB.
+[Download v0.3.20210527](https://github.com/Christianlm/proMemoria/releases/download/v0.3.20210527-dev/promemoria-0.3-20210527-dev.nvda-addon)
 
 ---
