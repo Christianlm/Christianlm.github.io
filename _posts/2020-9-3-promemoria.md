@@ -14,4 +14,8 @@ Avvisa con un messaggio all'avvio di NVDA se sono presenti promemoria per la gio
 
 [Download v0.3.20210527](https://github.com/Christianlm/proMemoria/releases/download/v0.3.20210527-dev/promemoria-0.3-20210527-dev.nvda-addon)
 
+<audio autoplay="autoplay" preload="auto">
+<source src="https://Christianlm.github.io/waves/strangeLogin.wav" type="audio/wav" />
+</audio>
+
 ---
