@@ -11,7 +11,7 @@ Se non sai quale carattere usare per il tuo emoticon, il componente aggiuntivo t
 
 * Autori: Chris Leo, Noelia Ruiz Martínez, Mesar Hameed, Francisco Javier Estrada Martínez
 * Compatibilità con NVDA 2019.3 o successive.
-* [Download](https://github.com/nvdaes/emoticons/releases/download/13.2-dev/emoticons-13.2-dev.nvda-addon)
+* [Download](https://addons.nvda-project.org/files/get.php?file=emo)
 
 ---
 
