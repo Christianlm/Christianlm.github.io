@@ -33,7 +33,7 @@ I seguenti vocabolari sono distribuiti con la stessa licenza del componente aggi
 *	Spanish vocabulary;
 *	Italian vocabulary.
 
-[Download v0.9](https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon) 10.3 KB.
+# [Download v0.9](https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon) 10.3 KB. #
 
 <div role="complementary">
 
