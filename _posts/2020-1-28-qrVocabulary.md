@@ -3,9 +3,6 @@ layout: post
 title: Quickly reach vocabulary 
 author: Chris
 ---
-
-Compatibilità con NVDA: 2019.3 e successive versioni.
-
 Consente di trovare il significato di una parola selezionata, o aprire un riquadro editabile per la ricerca nel vocabolario della lingua.
 
 ### Funzionamento: ###
@@ -20,11 +17,11 @@ Seleziona una parola e premi NVDA + Alt + F7: NVDA cerca il significato della pa
 
 Ulteriori  comandi:
 
-*	NVDA+Alt+F8: Se negli appunti è presente una parola, NVDA cerca il significato di quella parola;
-*	NVDA+Alt+F9: legge l'ultimo risultato di ricerca, premere due volte per aprire un messaggio esplorabile con il cursore.
+*	NVDA+Alt+F8: legge l'ultimo risultato di ricerca, premere due volte per aprire un messaggio esplorabile con il cursore.
+*	Comando da tastiera non assegnato: Se negli appunti è presente una parola, NVDA cerca il significato di quella parola;
 *	È disponibile anche uno script per aprire il riquadro delle impostazioni per selezionare  il  vocabolario.
 
-È possibile assegnare i comandi da tastiera dalle impostazioni di Gesti di immissione sotto  la categoria di configurazione e la categoria strumenti.
+È possibile assegnare i comandi da tastiera dalle impostazioni di Gesti di immissione sotto  la categoria Vocabolario a portata di mano.
 
 ### Vocabolari disponibili: ###
 
@@ -33,7 +30,12 @@ I seguenti vocabolari sono distribuiti con la stessa licenza del componente aggi
 *	Spanish vocabulary;
 *	Italian vocabulary.
 
-# [Download v0.9](https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon) 10.3 KB. #
+<details><summary>Downloads</summary>
+<ul>
+<li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon">Versione 0.9-dev</a></li>
+<li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.8/qrvocabulary-0.8-dev.nvda-addon">Versione 0.8-dev</a></li>
+</ul>
+</details>
 
 <div role="complementary">
 
