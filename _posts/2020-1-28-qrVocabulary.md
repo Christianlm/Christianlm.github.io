@@ -7,10 +7,6 @@ Consente di trovare il significato di una parola selezionata, o aprire un riquad
 
 ### Funzionamento: ###
 
-Innanzitutto, occorre caricare  i vocabolari.
-
-Andare al  menu Strumenti di NVDA, scegliere la voce  "Scarica i vocabolari" e seguire la breve procedura per scaricare e installare.
-
 Dalla finestra di dialogo delle impostazioni di NVDA è possibile selezionare un vocabolario sotto la categoria delle impostazioni del vocabolario.
 
 Seleziona una parola e premi NVDA + Alt + F7: NVDA cerca il significato della parola selezionata e la legge se è presente nel vocabolario.
@@ -32,6 +28,7 @@ I seguenti vocabolari sono distribuiti con la stessa licenza del componente aggi
 
 <details><summary>Downloads</summary>
 <ul>
+<li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v1.0-dev/qrvocabulary-1.0-dev.nvda-addon"> versione 1.0-dev.</a></li>
 <li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon">Versione 0.9-dev</a></li>
 <li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.8/qrvocabulary-0.8-dev.nvda-addon">Versione 0.8-dev</a></li>
 </ul>
@@ -53,6 +50,9 @@ Comandi da Tastiera</font></strong></td>
     <td>NVDA+Alt+F7</td></tr>
 <tr><td>legge l'ultimo risultato di ricerca, premere due volte per aprire un messaggio esplorabile</td>
 <td>NVDA+Alt+F8</td></tr>
+<tr>
+<td>Scambia tra i vocabolari disponibili.</td>
+<td>Comando da assegnare.</td></tr>
 <tr>
 <td>Cerca il significato della  parola negli appunti</td>
 <td>Comando da assegnare.</td>
