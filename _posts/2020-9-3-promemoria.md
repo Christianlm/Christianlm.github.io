@@ -12,6 +12,8 @@ Dal menu Strumenti, Promemoria sottomenu, è possible aggiungere un promemoria.
 
 quindi impostare il promemoria inserendo un messaggio e scegliendo il giorno ed il mese.
 
+<a href="https://twitter.com/llajta2012">Follow me on twitter...</a>
+
 <details><summary>Downloads</summary>
 <ul>
 <li><a href="https://github.com/Christianlm/proMemoria/releases/download/0.5.20220704/promemoria-0.5.20220704-dev.nvda-addon">Versione 0.5.20220704-dev, compatibile con NVDA 2022.1 e successive.</a></li>
