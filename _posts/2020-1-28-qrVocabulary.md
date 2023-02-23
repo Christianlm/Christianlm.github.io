@@ -30,6 +30,7 @@ I seguenti vocabolari sono distribuiti con la stessa licenza del componente aggi
 
 <details><summary>Downloads</summary>
 <ul>
+<li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/1.1.1-dev/qrvocabulary-1.1.1-dev.nvda-addon"> Versione 1.1.1-dev, compatibile con NVDA 2023.1.</a></li>
 <li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v1.1-dev/qrvocabulary-1.1-dev.nvda-addon"> Versione 1.1-dev.</a></li>
 <li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v1.0-dev/qrvocabulary-1.0-dev.nvda-addon"> versione 1.0-dev.</a></li>
 <li><a href="https://github.com/Christianlm/quicklyReachVocabulary/releases/download/v0.9-dev/qrvocabulary-0.9-dev.nvda-addon">Versione 0.9-dev</a></li>
