@@ -26,7 +26,6 @@ I seguenti vocabolari sono distribuiti con la stessa licenza del componente aggi
 *	Spanish vocabulary;
 *	Italian vocabulary.
 
-<a href="https://twitter.com/llajta2012">Follow me on twitter...</a>
 
 <details><summary>Downloads</summary>
 <ul>
